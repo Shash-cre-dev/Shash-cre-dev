@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript ES6 React**
 
 - 📝 I regularly write articles on [https://medium.com/@shashwritescode](https://medium.com/@shashwritescode)
 
