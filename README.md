@@ -29,6 +29,22 @@
 
 ###
 
+<p align="left">I'm from Bihar, India<br><br>- 🔭 I’m a Frontend Developer<br>- 👨‍💻 My Portfolio - https://shash-cre-dev.github.io/shashankkumar/<br>- 📚 I'm currently learning React and JavaScript<br>- ⚡ In my free time I write blogs on Medium and Hashnode<br>- 💬 Ask me about - Frontend Techstack & Blogging<br>- 📫 Reach me with - callshash@gmail.com</p>
+
+###
+
+## 🌐 Connect With Me:
+
+###
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Shashank Kumar | Contributor#5109) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010762272054&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shash._.obssd_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashank-kumar-4506b2243/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shashcuriosity) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Shash_Cre_Dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/ShashCuriosity) 
+
+###
+
+<h3 align="left">🛠 Web Development - Language and Tools :</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -54,22 +70,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<p align="left">I'm from Bihar, India<br><br>- 🔭 I’m a Frontend Developer<br>- 👨‍💻 My Portfolio - https://shash-cre-dev.github.io/shashankkumar/<br>- 📚 I'm currently learning React and JavaScript<br>- ⚡ In my free time I write blogs on Medium and Hashnode<br>- 💬 Ask me about - Frontend Techstack & Blogging<br>- 📫 Reach me with - callshash@gmail.com</p>
-
-###
-
-## 🌐 Connect With Me:
-
-###
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Shashank Kumar | Contributor#5109) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010762272054&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shash._.obssd_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashank-kumar-4506b2243/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shashcuriosity) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Shash_Cre_Dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/ShashCuriosity) 
-
-###
-
-<h3 align="left">🛠 Web Development - Language and Tools :</h3>
 
 ###
 
@@ -118,8 +118,6 @@
 </div>
 
 ###
-
-
 
 ###
 
