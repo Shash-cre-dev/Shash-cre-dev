@@ -122,19 +122,13 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shash-cre-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shash-cre-dev&theme=dark&hide_border=false" align="left" style="width: 100%" />
-
-</td></tr></table>  
+</td>
+<td valign="top" width="50%">![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shash-cre-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </td></tr></table>  
 
 
 ### 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shash-cre-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
