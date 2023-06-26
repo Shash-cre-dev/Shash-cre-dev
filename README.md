@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Bihar, India<br><br>- 🔭 I’m a Frontend Developer<br>- 👨‍💻 My Portfolio - https://shash-cre-dev.github.io/shashankkumar/<br>- 📚 I'm currently learning React and JavaScript<br>- ⚡ In my free time I write blogs on Medium and Hashnode<br>- 💬 Ask me about - Frontend Techstack & Blogging<br>- 📫 Reach me with - callshash@gmail.com</p>
+<p align="left">I'm from Bihar, India<br><br>- 🔭 I’m a Frontend Developer<br>- 👨‍💻 My Portfolio - https://shash-cre-dev.github.io/shashankkumar/<br>- 📚 I'm currently learning React and JavaScript<br>- ⚡ In my free time I write blogs on Medium and Hashnode<br>- 💬 Ask me about - Frontend Techstack & Blogging<br>- 📫 Reach me with - callshash@gmail.com | shashwritescode@gmail.com </p>
 
 ###
 
